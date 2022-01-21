@@ -14,19 +14,29 @@
 
 body {
   margin: 0;
-  background: rgb(96, 35, 102);
+  background: rgb(135, 49, 143);
 }
 
 .container {
   display: flex;
   align-items: center;
+  justify-content: space-evenly;
   margin-top: 4em;
-  flex-direction: column;
+  margin-bottom: 4em;
 }
 footer {
-  font-family: 'Pretendo';
+  font-size: 18px;
+  font-family: 'Lato';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50ch;
+  text-align: center;
+  line-height: 25px;
 }
 a {
   color: black;
   text-decoration: none;
+  text-transform: uppercase;
+  margin-left: 0.5em;
 }
