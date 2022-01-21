@@ -25,14 +25,6 @@ body {
   margin-bottom: 4em;
 }
 footer {
-  font-size: 18px;
-  font-family: 'Lato';
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 50ch;
-  text-align: center;
-  line-height: 25px;
 }
 a {
   color: black;
