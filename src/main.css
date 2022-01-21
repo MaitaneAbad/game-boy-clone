@@ -1,0 +1,13 @@
+:root {
+}
+
+body {
+  margin: 0;
+  background: rgb(73, 20, 78);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 4em;
+}
